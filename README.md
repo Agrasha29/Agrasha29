@@ -75,6 +75,7 @@ AI-powered PDF question-answering application that allows users to upload docume
 **Tech:** Python • Flask • PyPDF2 • Groq API • HTML • CSS • JavaScript • Vercel
 
 🔗 **Repository:** [AI Knowledge Assistant](https://github.com/Agrasha29/Ai-knowledge-assistant)
+
 🔗 **Live Link:** https://ai-knowledge-assistant-xi-six.vercel.app/
 
 ---
@@ -84,6 +85,7 @@ AI-powered PDF question-answering application that allows users to upload docume
 An AI-powered platform focused on analyzing machine-learning predictions for potential fairness and bias-related patterns across demographic groups.
 
 **Tech:** Python • Machine Learning • Streamlit • Pandas • NumPy • Responsible AI
+
 🔗 **Live Link:** https://fairlens-ai-fr6cx2cx2gzn9kmpgg6hez.streamlit.app/
 
 ---
@@ -93,6 +95,7 @@ An AI-powered platform focused on analyzing machine-learning predictions for pot
 A responsive portfolio website showcasing my projects, technical skills, achievements, certifications, and experience.
 
 **Tech:** HTML • CSS • JavaScript
+
 🔗 **Live Link:** https://portfolio-flame-eight-15.vercel.app
 
 ---
