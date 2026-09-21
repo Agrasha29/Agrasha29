@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 # 👋 Hi, I'm Agrasha Patel
 
 ### 🎓 B.Tech CSE | Artificial Intelligence & Machine Learning
@@ -180,4 +181,3 @@ A responsive portfolio website showcasing my projects, technical skills, achieve
 <p align="center">
   ⭐ If you find my projects interesting, consider giving them a star!
 </p>
-
